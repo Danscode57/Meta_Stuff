@@ -1,0 +1,6 @@
+{
+  "name": "Quest 3 Spatial MR",
+  "description": "Meta Quest 3 Mixed Reality & 2D Spatial Experience Suite with Passthrough Controls, 3D Spatial Anchors, Hand Tracking Simulator, and Room Scanner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
